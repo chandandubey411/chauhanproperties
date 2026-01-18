@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Industrial Plot",
+    "location": "Site IV, Sahibabad",
+    "area": "450 Sq. Yards",
+    "type": "Industrial",
+    "price": "Price on Request",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaie7X8NoJJ6vUm9Cd5gMijzLl67P0ryRUdg&s"
+  },
+  {
+    "id": 2,
+    "title": "Warehouse Space",
+    "location": "Sahibabad Industrial Area",
+    "area": "5000 Sq. Ft.",
+    "type": "Warehouse",
+    "price": "Contact for Price",
+    "image": "https://www.shipbob.com/wp-content/uploads/2023/10/3a487df3bde939dbb0a009162fec431f-scaled.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Factory Unit",
+    "location": "GPP Industrial Area",
+    "area": "3000 Sq. Ft.",
+    "type": "Factory",
+    "price": "Price on Request",
+    "image": "https://d3fmssennfe86p.cloudfront.net/en-us/wp-content/uploads/sites/4/2024/03/Vs-9.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Commercial Shop",
+    "location": "Industrial Market, Sahibabad",
+    "area": "350 Sq. Ft.",
+    "type": "Commercial",
+    "price": "Contact for Price",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8szWnIecoFoaLGviJe3-8Dpux1dQtDYN4A&s"
+  },
+  {
+    "id": 5,
+    "title": "Industrial Shed",
+    "location": "Site V, Sahibabad",
+    "area": "6000 Sq. Ft.",
+    "type": "Industrial",
+    "price": "Price on Request",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP6aI-pXoT_5cIwvfa4QDE6EpqX8Z6ofZ_vw&s"
+  },
+  {
+    "id": 6,
+    "title": "Warehouse with Dock",
+    "location": "GT Road Industrial Belt",
+    "area": "8000 Sq. Ft.",
+    "type": "Warehouse",
+    "price": "Contact for Price",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwu_PbMr9_fX8NW38kmePKswhi-59HqyZamQ&s"
+  },
+  {
+    "id": 7,
+    "title": "Ready Factory Building",
+    "location": "GPP Industrial Area",
+    "area": "5500 Sq. Ft.",
+    "type": "Factory",
+    "price": "Price on Request",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAuE-R3Q05vaHuLhTWzKXTSE-qEGqTfOVRrQ&s"
+  },
+  {
+    "id": 8,
+    "title": "Industrial Plot Corner",
+    "location": "Site IV, Sahibabad",
+    "area": "700 Sq. Yards",
+    "type": "Industrial",
+    "price": "Contact for Price",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHh8GEJLYLIDJJcuAZT4W49ZBtfoNh6VYVQ&s"
+  },
+  {
+    "id": 9,
+    "title": "Godown Space",
+    "location": "Sahibabad Industrial Area",
+    "area": "4000 Sq. Ft.",
+    "type": "Warehouse",
+    "price": "Price on Request",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1lqmOl9_2ryzxYwK3OF-2JZVQ8l4KqYpaTg&s"
+  },
+  {
+    "id": 10,
+    "title": "Small Manufacturing Unit",
+    "location": "Site V Industrial Area",
+    "area": "2500 Sq. Ft.",
+    "type": "Factory",
+    "price": "Contact for Price",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBMb2GQ2LQhabibAito2aEU47eD82eo6ZiMA&s"
+  },
+  {
+    "id": 11,
+    "title": "Commercial Showroom",
+    "location": "Industrial Market, Sahibabad",
+    "area": "600 Sq. Ft.",
+    "type": "Commercial",
+    "price": "Price on Request",
+    "image": "https://5.imimg.com/data5/MF/CY/DH/SELLER-9751600/commercial-shop-construction-service.jpeg"
+  },
+  {
+    "id": 12,
+    "title": "Industrial Plot Near Main Road",
+    "location": "GT Road, Sahibabad",
+    "area": "1000 Sq. Yards",
+    "type": "Industrial",
+    "price": "Contact for Price",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYLQGYEAmuJe4KJ8YYnywH1z8TEe2CccKCA&s"
+  }
+]
