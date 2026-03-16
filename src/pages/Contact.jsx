@@ -59,7 +59,7 @@ const Contact = () => {
             </p>
 
             <div className="mt-6 space-y-4 text-gray-700">
-              <p>📍 Sahibabad Industrial Area, Ghaziabad</p>
+              <p>📍 House No. 63, Karhera colony, Mohan Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201007</p>
               <p>📞 <a href="tel:9891714666" className="text-[#F97316] font-semibold">9891714666</a></p>
               <p>✉️ <a href="mailto:shiv.chauhan0402@gmail.com" className="text-[#F97316] font-semibold">shiv.chauhan0402@gmail.com</a></p>
             </div>

@@ -71,7 +71,7 @@ const Footer = () => {
             Contact Us
           </h4>
           <p className="text-sm">
-            📍 Sahibabad Industrial Area, Ghaziabad
+            📍 House No. 63, Karhera colony, Mohan Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201007
           </p>
           <p className="mt-2 text-sm">
             📞 <a href="tel:9891714666" className="hover:text-[#F97316]">9891714666</a>
